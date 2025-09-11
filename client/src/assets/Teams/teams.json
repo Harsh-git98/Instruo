@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "name": "Secretary General",
+        "members": [
+            {
+                "name": "Somename Title",
+                "position": "Secretary General",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Secretary General",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Secretary General",
+                "img": "./assets/imgs/team/somename.webp"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Finance",
+        "members": [
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Cultural",
+        "members": [
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Event",
+        "members": [
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate Head",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            },
+            {
+                "name": "Somename Title",
+                "position": "Associate",
+                "img": "./assets/imgs/team/somename.webp"
+            }
+        ]
+    }
+]
