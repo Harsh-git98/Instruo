@@ -25,4 +25,11 @@
     font-size: 1.2rem;
     color: var(--offwhite);
     margin: 1rem 0;
+    padding: 0.4rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .hero .title {
+        font-size: 4rem;
+    }
 }

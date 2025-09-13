@@ -25,7 +25,7 @@ const Teams = () => {
     }
     return (
         <section className="instruo-team">
-            <div className="heading">Meet our Supercharged Team</div>
+            <div className="heading">Meet our <br/><span>Supercharged</span> Team</div>
             <div style={{
                 position: 'relative',
                 zIndex: '1',

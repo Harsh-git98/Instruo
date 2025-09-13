@@ -14,6 +14,8 @@ const { Header } = Layout;
 
 const DrawerSidebar = () => {
     const [visible, setVisible] = useState(false);
+    const location = useLocation();
+    const selectedKey = location.pathname;
 
     const showDrawer = () => {
         setVisible(true);

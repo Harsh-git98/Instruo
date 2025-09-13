@@ -1,6 +1,6 @@
 import React from "react";
 import "./Hype.css";
-import HypeCard from "../../components/HypeCard/HypeCard";
+import HypeCard from "../../Components/HypeCard/HypeCard";
 import { CalendarOutlined, SmileOutlined, SmileTwoTone, TrophyOutlined, UsergroupAddOutlined } from "@ant-design/icons";
 
 const Hype = () => {
