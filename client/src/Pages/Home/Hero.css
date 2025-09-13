@@ -1,0 +1,28 @@
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+    padding-top: 5rem;
+    height: max(100vh, 200px);
+    background: url('/assets/Home/instruo-hero.svg') no-repeat center;
+    background-size: cover;
+}
+
+.hero .title {
+    font-size: 8rem;
+    font-weight: 100;
+    font-family: 'Rubik Glitch', sans-serif;
+    transform: scaleY(1.2);
+    width: 100%;
+    text-align: center;
+}
+
+.hero .desc {
+    width: min(50ch, 100%);
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--offwhite);
+    margin: 1rem 0;
+}

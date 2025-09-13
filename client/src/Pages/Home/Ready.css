@@ -1,0 +1,21 @@
+.ready {
+    background: url('/assets/Home/instruo-hero-bottom.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.ready h1 {
+    font-weight: normal;
+    font-family: 'Rubik Glitch', cursive;
+    transform: scaleY(1.2);
+    font-size: 4.2rem;
+    width: 100%;
+    text-align: center;
+}

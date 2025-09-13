@@ -1,0 +1,32 @@
+.instruo-hype {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background-image: url("/assets/hype-bg.webp");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat; */
+    /* outline: 1px solid lime; */
+    position: relative;
+    z-index: 1;
+    padding-top: 3rem;
+    width: 100%;
+}
+
+.instruo-hype .heading {
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+}
+
+.instruo-hype .hype-stats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0 3rem 0;
+    gap: 1rem;
+    padding: 1rem;
+    flex-wrap: wrap;
+}
