@@ -1,8 +1,8 @@
 import React from "react";
 import "./Teams.css";
 import teaminfo from "../../assets/Teams/teams.json";
-import Member from "../../components/Member/Member";
-import TeamsList from "../../components/TeamsList/TeamsList";
+import Member from "../../Components/Member/Member";
+import TeamsList from "../../Components/TeamsList/TeamsList";
 import { Collapse } from "antd";
 import { CaretRightOutlined, CaretDownOutlined } from "@ant-design/icons";
 

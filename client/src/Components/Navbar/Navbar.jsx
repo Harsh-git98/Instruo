@@ -1,5 +1,3 @@
-import React from "react";
-import { useRef } from "react";
 import { useState } from "react";
 import { Layout, Menu, Space, Avatar, Dropdown, ConfigProvider, theme, Button, Divider } from "antd";
 import { Link } from "react-router-dom";
@@ -15,7 +13,7 @@ import {
 } from "@ant-design/icons";
 import DrawerSidebar from "./SideBar";
 // import ProfileDropdown from "./ProfileDropdown";
-import "./NavBar.css";
+import "./Navbar.css";
 // import CustomButton from "../../components/CustomButton/CustomButton";
 
 const { Header } = Layout;
