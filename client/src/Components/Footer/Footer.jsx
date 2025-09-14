@@ -133,7 +133,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="nf-end">
-                <p>Copyright © 2024 Instruo. All rights reserved</p>
+                <p>Copyright © 2025 Instruo. All rights reserved</p>
             </div>
         </footer>
     );
