@@ -113,11 +113,11 @@ const DrawerSidebar = () => {
                             Sponsors
                         </Link>
                     </Menu.Item>
-                    {/* <Menu.Item key="/team" icon={<TeamOutlined />}>
+                    <Menu.Item key="/team" icon={<TeamOutlined />}>
                         <Link to="/team" onClick={closeDrawer}>
                             Our Team
                         </Link>
-                    </Menu.Item> */}
+                    </Menu.Item>
                 </Menu>
             </Drawer>
         </ConfigProvider>
