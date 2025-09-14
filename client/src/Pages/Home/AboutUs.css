@@ -1,117 +1,66 @@
-.instruo-about {
+.about-us {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding: 2rem 0;
-    position: relative;
-    width: 100%;
-    margin-top: 3rem;
-    /* top: -10rem; */
-    /* outline: 3px solid yellow; */
+    width: 100%;;
+    color: #fff
 }
 
-.instruo-about > .heading {
-    color: #fff;
-    font-family: 'Rubik Glitch', cursive;
+.about-us .heading {
     font-size: 4rem;
-    transform: scaleY(1.2);
-    font-weight: 100;
-    width: 100%;
-    text-align: center;
+    font-family: 'Rubik Glitch', cursive;
+    
 }
 
-.instruo-about .about-card-wrapper {
-    width: 100%;
+.about-us .instruo14 {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
-    padding: 1rem;
-    position: relative;
+    flex-wrap: wrap;
+    width: min(1200px, 100%);
+    padding: 0.5rem
 }
 
-.instruo-about .about-card-wrapper .about-card {
-    background: linear-gradient(
-        60deg,
-        hsla(0, 0%, 85%, 0.18),
-        hsla(0, 0%, 33%, 0.18)
-    );
-    width: min(75ch, 90%);
-    position: relative;
-    z-index: 2;
-    backdrop-filter: blur(90px);
-    display: flex;
-    justify-content: center;
-    align-items: start;
-    flex-direction: column;
-    color: #fff;
-}
-
-.instruo-about .about-card-wrapper .about-card div {
-    width: min(75ch, 90%);
-    text-wrap: wrap;
-}
-
-.instruo-about .about-card-wrapper .about-card p {
+.about-us .instruo14 .dbox {
+    padding: 0.5rem;
     width: 100%;
+    /* outline: 1px solid lime; */
 }
 
-.instruo-about .about-card-wrapper .about-card {
-    background: linear-gradient(
-        120deg,
-        hsla(0, 0%, 85%, 0.18),
-        hsla(0, 0%, 33%, 0.18)
-    );
-    margin-bottom: 2rem;
+.about-us .instruo14 .dbox h2 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
 }
 
-.instruo-about .about-card-wrapper .about-card {
-    color: hsl(0, 0%, 100%, 0.8);
-    font-weight: 300;
-    font-size: 1.1rem;
-    /* width: 100%; */
+.about-us .instruo14 .dbox p {
+    color: #ffffff73
 }
 
-.instruo-about .about-card-wrapper .about-card h3 {
-    font-size: 1.5rem;
-    margin-top: 1rem;
-    font-weight: 500;
+.about-us .instruo14 .dbox[spanner="instruo"] {
+    grid-column: span 3;
 }
 
-.instruo-about .about-card-wrapper .about-card .heading {
-    font-size: 2rem;
-    font-weight: 900;
+.about-us .instruo14 .dbox[spanner="instruo2"] {
+    width: 100%;
+    outline: 1px solid color;
 }
 
-.instruo-about .about-card-wrapper .about-card {
-    position: relative;
-    overflow: hidden;
-    color: #fff;
-    background-image: url("/assets/college.jpg");
-    background-size: cover;
+.about-us .instruo14 .dbox[spanner="instruo2"] h2 {
+    font-size: 1.4rem;
 }
 
-.instruo-about .about-card-wrapper img {
-    width: min(55rem, 100%);
-    transform: scale(0.63);
-    position: absolute;
-    z-index: 0;
-    top: 0;
+.about-us .college {
+    padding: 1rem;
+    width: min(1200px, 100%);
+    margin-top: 2rem;
 }
 
-.instruo-about p {
-    color: var(--offwhite);
+.about-us .college h2 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
 }
 
-@media only screen and (max-width: 900px) {
-    .instruo-about > .heading {
-        margin-top: 1.5rem;
-    }
-}
-
-@media only screen and (max-width: 500px) {
-    .instruo-about > .heading {
-        font-size: 3rem;
-    }
+.about-us .college p {
+    color: #ffffff73;
 }
