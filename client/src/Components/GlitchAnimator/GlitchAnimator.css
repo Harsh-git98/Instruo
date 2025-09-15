@@ -45,3 +45,9 @@
   80%  { transform: translate(5px, -5px); }
   100% { transform: translate(0); }
 }
+
+@media only screen and (max-width: 900px) {
+    .glitch {
+        font-size: 5rem;
+    }
+}
