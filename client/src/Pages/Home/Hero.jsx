@@ -2,6 +2,7 @@ import React from "react";
 import "./Hero.css";
 import { Link } from "react-router-dom";
 import CustomButton from "../../Components/CustomButton/CustomButton";
+import NeutralButton from "../../Components/NeutralButton/NeutralButton";
 import GlitchAnimator from "../../Components/GlitchAnimator/GlitchAnimator";
 
 const Hero = () => {
@@ -24,11 +25,7 @@ const Hero = () => {
                 competitions!
             </p>
             <Link to="/events">
-                <CustomButton
-                    style={{
-                        width: "fit-content",
-                        fontWeight: 800,
-                    }}
+                <NeutralButton
                     text={"EVENTS"}
                 />
             </Link>
