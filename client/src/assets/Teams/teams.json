@@ -1,236 +1,121 @@
 [
-    {
-        "id": 1,
-        "name": "Secretary General",
-        "members": [
-            {
-                "name": "Somename Title",
-                "position": "Secretary General",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Secretary General",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Secretary General",
-                "img": "./assets/imgs/team/somename.webp"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Finance",
-        "members": [
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Cultural",
-        "members": [
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Event",
-        "members": [
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate Head",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            },
-            {
-                "name": "Somename Title",
-                "position": "Associate",
-                "img": "./assets/imgs/team/somename.webp"
-            }
-        ]
-    }
+  {
+    "id": 1,
+    "name": "Main Coordinator",
+    "members": [
+      {
+        "name": "Ayush Tejaswi",
+        "position": "Main Coordinator",
+        "img": "./assets/imgs/team/ayush_tejaswi.webp"
+      },
+      {
+        "name": "Satish Gupta",
+        "position": "Main Coordinator",
+        "img": "./assets/imgs/team/satish_gupta.webp"
+      },
+      {
+        "name": "Aaratrika Sarkar",
+        "position": "Main Coordinator",
+        "img": "./assets/imgs/team/aaratrika_sarkar.webp"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Joint Coordinator",
+    "members": [
+      {
+        "name": "Sohom Chakrobarty",
+        "position": "Joint Coordinator",
+        "img": "./assets/imgs/team/sohom_chakrobarty.webp"
+      },
+      {
+        "name": "Pranjal Diwakar",
+        "position": "Joint Coordinator",
+        "img": "./assets/imgs/team/pranjal_diwakar.webp"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Finance",
+    "members": [
+      {
+        "name": "Saurav Kumar",
+        "position": "Head",
+        "img": "./assets/imgs/team/saurav_kumar.webp"
+      },
+      {
+        "name": "Shreyansh Srivastva",
+        "position": "Head",
+        "img": "./assets/imgs/team/shreyansh_srivastva.webp"
+      },
+      {
+        "name": "Arman Chaudhary",
+        "position": "Head",
+        "img": "./assets/imgs/team/arman_chaudhary.webp"
+      },
+      {
+        "name": "Ayush Ranjan",
+        "position": "Associate Head",
+        "img": "./assets/imgs/team/ayush_ranjan.webp"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Event",
+    "members": [
+      {
+        "name": "Yashwanth Pedapudi",
+        "position": "Head",
+        "img": "./assets/imgs/team/yashwanth_pedapudi.webp"
+      },
+      {
+        "name": "Vikash Gopalak",
+        "position": "Head",
+        "img": "./assets/imgs/team/vikash_gopalak.webp"
+      },
+      {
+        "name": "Ranveer Kumar",
+        "position": "Head",
+        "img": "./assets/imgs/team/ranveer_kumar.webp"
+      },
+      {
+        "name": "Sangeet Gunwant Dhabare",
+        "position": "Head",
+        "img": "./assets/imgs/team/sangeet_gunwant.webp"
+      },
+      {
+        "name": "Manmeet Kaur",
+        "position": "Head",
+        "img": "./assets/imgs/team/manmeet_kaur.webp"
+      },
+      {
+        "name": "Mohit Yadav",
+        "position": "Associate Head",
+        "img": "./assets/imgs/team/mohit_yadav.webp"
+      },
+      {
+        "name": "Arun Kumar Seervi",
+        "position": "Associate Head",
+        "img": "./assets/imgs/team/arun_seervi.webp"
+      },
+      {
+        "name": "Sanket Mahajan",
+        "position": "Associate Head",
+        "img": "./assets/imgs/team/sanket_mahajan.webp"
+      },
+      {
+        "name": "Shubham Verma",
+        "position": "Associate Head",
+        "img": "./assets/imgs/team/shubham_verma.webp"
+      },
+      {
+        "name": "Ankita Balu Sapkal",
+        "position": "Associate Head",
+        "img": "./assets/imgs/team/ankita_sapkal.webp"
+      }
+    ]
+  }
 ]
