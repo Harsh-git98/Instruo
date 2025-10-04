@@ -18,7 +18,7 @@ const Hero = () => {
                     <source src="/assets/Home/hero-video.webm" type="video/mp4" />
                 </video>
             <div className="title">
-                <GlitchAnimator text="INSTRUO" />
+                <GlitchAnimator text="INSTRUO" styles = {{fontSize: "15vw"}} />
             </div>
             <p className="desc">
                 Step into Kolkata's ultimate tech extravaganza! Dive into innovation, challenge your limits in thrilling

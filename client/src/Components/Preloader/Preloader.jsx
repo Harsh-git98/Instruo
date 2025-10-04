@@ -9,7 +9,7 @@ const Preloader = () => {
     return (
       <div className="preloader">
         <PreloaderSVG key={Date.now()} />
-        <div className="bulb"></div>
+        {/* <div className="bulb"></div> */}
       </div>
     );
   }
