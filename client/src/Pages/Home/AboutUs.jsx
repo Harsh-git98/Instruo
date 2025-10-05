@@ -12,13 +12,13 @@ const AboutUs = () => {
                 <div className="dbox" spanner="instruo">
                     <h2>Instruo 14</h2>
                     <p>
-                        INSTRUO, the Annual Technical Fest of IIEST Shibpur, is all about “Driving Innovation.” Since its humble beginnings in 2009, it has grown to become the largest tech-fest in Kolkata and the second largest in Eastern India, a landmark in the region’s technical calendar.
+                        INSTRUO, the Annual Technical Fest of IIEST Shibpur, is all about <em>Driving Innovation</em>. Since its humble beginnings in 2009, it has grown to become the largest tech-fest in Kolkata and the second largest in Eastern India, a landmark in the region’s technical calendar.
                         <br/>
                         <br/>
                         This year, we proudly bring to you INSTRUO 2025 – The 14th Edition, a grander and more vibrant version of the legacy. With an ever-expanding spectrum of events, INSTRUO promises an experience like no other—ranging from cutting-edge robotics and adrenaline-pumping Robowars to thought-provoking literary contests and engaging workshops led by experts. From coding battles that test logic and skill, to exhibitions that highlight futuristic ideas, and from cultural expressions to high-tech competitions, every moment at INSTRUO is crafted to inspire, challenge, and excite.
                         <br/>
                         <br/>
-                        Join us from February 14th to 16th, 2025, at the historic IIEST Shibpur campus, and be part of a celebration that promises innovation, excitement, and unforgettable experiences.
+                        Join us from 31st October to 2nd November, at the historic IIEST Shibpur campus, and be part of a celebration that promises innovation, excitement, and unforgettable experiences.
                     </p>
                 </div>
                 <div className="dbox " spanner="instruo2">
