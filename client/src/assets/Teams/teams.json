@@ -5,17 +5,17 @@
     "members": [
       {
         "name": "Ayush Tejaswi",
-        "position": "Head",
+        "position": "Main Coordinator",
         "img": "./assets/imgs/team/ayush_tejaswi.webp"
       },
       {
         "name": "Satish Gupta",
-        "position": "Executive",
+        "position": "Main Coordinator",
         "img": "./assets/imgs/team/satish_gupta.webp"
       },
       {
         "name": "Aaratrika Sarkar",
-        "position": "Head",
+        "position": "Main Coordinator",
         "img": "./assets/imgs/team/aaratrika_sarkar.webp"
       }
     ]
@@ -26,7 +26,7 @@
     "members": [
       {
         "name": "Sohom Chakrobarty",
-        "position": "Executive",
+        "position": "Joint Coordinator",
         "img": "./assets/imgs/team/sohom_chakrobarty.webp"
       },
       {
@@ -46,18 +46,18 @@
         "img": "./assets/imgs/team/saurav_kumar.webp"
       },
       {
-        "name": "Shreyansh Srivastava",
-        "position": "Executive",
-        "img": "./assets/imgs/team/shreyansh_srivastava.webp"
+        "name": "Shreyansh Srivastva",
+        "position": "Head",
+        "img": "./assets/imgs/team/shreyansh_srivastva.webp"
       },
       {
         "name": "Arman Chaudhary",
-        "position": "Executive",
+        "position": "Head",
         "img": "./assets/imgs/team/arman_chaudhary.webp"
       },
       {
         "name": "Ayush Ranjan",
-        "position": "Head",
+        "position": "Associate Head",
         "img": "./assets/imgs/team/ayush_ranjan.webp"
       }
     ]

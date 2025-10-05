@@ -95,10 +95,6 @@
     border-radius: 10px;
 }
 
-.about-us p {
-    line-height: 1.45em;
-}
-
 @media screen and (max-width: 768px) {
     .about-us .college .right {
         display: none;

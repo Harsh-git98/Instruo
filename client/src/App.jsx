@@ -12,7 +12,7 @@ const ScrollToTop = ()=> {
     window.scrollTo(0, 0); // scrolls the page to top
   }, [pathname]);
 
-  return null; // doesn’t render anything
+  return null; // doesn't render anything
 }
 
 
