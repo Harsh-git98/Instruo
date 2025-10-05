@@ -20,12 +20,14 @@ const logos = [
 	'Wow Momo Logo.png'
 ];
 
-const tidyName = (file) =>
-	file
-		.replace(/\.[^.]+$/, '')
-		.replace(/[-_]/g, ' ')
+const tidyName = (file) => {
+	const base = file.replace(/\.[^.]+$/, '');
+	if (/coal[_-]?india/i.test(base)) return 'Coal India Limited';
+	const cleaned = base.replace(/[-_]/g, ' ')
 		.replace(/\b(logo|symbol|limited|india)\b/gi, '')
 		.trim();
+	return cleaned.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
+};
 
 const Sponsors = () => {
 	return (

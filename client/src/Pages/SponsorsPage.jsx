@@ -3,17 +3,17 @@ import './SponsorsPage.css';
 
 const logos = [
 	'amul-logo.png',
+	'Krafton Logo.jpg',
 	'B Natural logo.jpeg',
 	'barista_logo.jpg',
 	'bisleri_logo.png',
 	'cafe-coffee-day-logo.png',
 	'CESC_logo.png',
-	'coal_india.avif',
+	'coal_india_limited_logo.avif',
 	'edudite_logo.png',
 	'Fleapo Logo.png',
 	'Friends Pizza Logo.png',
 	'GateForum Logo.jpeg',
-	'Krafton Logo.jpg',
 	'LOreal-Symbol.jpg',
 	'Nodwin Gaming Logo.png',
 	'redFM logo.jpeg',
@@ -37,12 +37,15 @@ function useRevealGrid(ref) {
 	}, [ref]);
 }
 
-const tidyName = (file) =>
-	file
-		.replace(/\.[^.]+$/, '')
-		.replace(/[-_]/g, ' ')
+const tidyName = (file) => {
+	const base = file.replace(/\.[^.]+$/, '');
+	if (/coal[_-]?india/i.test(base)) return 'Coal India Limited';
+	const cleaned = base.replace(/[-_]/g, ' ')
 		.replace(/\b(logo|symbol|limited|india)\b/gi, '')
 		.trim();
+	// Title-case the cleaned name
+	return cleaned.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
+};
 
 const SponsorsPage = () => {
 	const gridRef = useRef(null);
