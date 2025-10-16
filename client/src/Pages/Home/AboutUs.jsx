@@ -52,7 +52,7 @@ const AboutUs = () => {
             </section>
             <section className="college">
                 <div className="left">
-                    <h2>IIEST SHibpur</h2>
+                    <h2>IIEST Shibpur</h2>
                     <p>
                         Since its foundation in the mid-19th century, the Indian Institute of Engineering Science and
                         Technology, Shibpur, erstwhile The Bengal Engineering College, is the second oldest engineering
