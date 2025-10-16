@@ -39,7 +39,7 @@
 }
 
 .gallery .container .gallery-img {
-  width: 100%;
+  width: min(1200px, 100%);
   padding: 1rem;
 }
 

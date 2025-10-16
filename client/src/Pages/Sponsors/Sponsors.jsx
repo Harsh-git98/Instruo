@@ -1,79 +1,79 @@
 import React, { useEffect, useRef } from 'react';
 import './Sponsors.css';
+import { Button } from 'antd';
+import { DownloadOutlined } from '@ant-design/icons';
+import GlitchAnimator from '../../Components/GlitchAnimator/GlitchAnimator';
 
 const logos = [
-	'amul-logo.png',
-	'Krafton Logo.jpg',
-	'B Natural logo.jpeg',
-	'barista_logo.jpg',
-	'bisleri_logo.png',
-	'cafe-coffee-day-logo.png',
-	'CESC_logo.png',
-	'coal_india_limited_logo.avif',
-	'edudite_logo.png',
-	'Fleapo Logo.png',
-	'Friends Pizza Logo.png',
-	'GateForum Logo.jpeg',
-	'LOreal-Symbol.jpg',
-	'Nodwin Gaming Logo.png',
-	'redFM logo.jpeg',
-	'Wow Momo Logo.png'
+  'amul-logo.png',
+  'B Natural logo.jpeg',
+  'barista_logo.jpg',
+  'bisleri_logo.png',
+  'cafe-coffee-day-logo.png',
+  'CESC_logo.png',
+  'coal_india.avif',
+  'edudite_logo.png',
+  'Fleapo Logo.png',
+  'Friends Pizza Logo.png',
+  'GateForum Logo.jpeg',
+  'Krafton Logo.jpg',
+  'LOreal-Symbol.jpg',
+  'Nodwin Gaming Logo.png',
+  'redFM logo.jpeg',
+  'Wow Momo Logo.png',
 ];
 
-function useRevealGrid(ref) {
-	useEffect(() => {
-		if (!ref.current) return;
-		const items = ref.current.querySelectorAll('.sponsor-item');
-		const obs = new IntersectionObserver(
-			(entries) => {
-				entries.forEach((entry) => {
-					if (entry.isIntersecting) entry.target.classList.add('reveal');
-				});
-			},
-			{ threshold: 0.12 }
-		);
-		items.forEach((it) => obs.observe(it));
-		return () => obs.disconnect();
-	}, [ref]);
-}
-
-const tidyName = (file) => {
-	const base = file.replace(/\.[^.]+$/, '');
-	if (/coal[_-]?india/i.test(base)) return 'Coal India Limited';
-	const cleaned = base.replace(/[-_]/g, ' ')
-		.replace(/\b(logo|symbol|limited|india)\b/gi, '')
-		.trim();
-	// Title-case the cleaned name
-	return cleaned.replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
-};
-
 const Sponsors = () => {
-	const gridRef = useRef(null);
-	useRevealGrid(gridRef);
+  const onButtonClick = () => {
+    const pdfUrl = '/assets/Instruo14.pdf';
+    const link = document.createElement('a');
+    link.href = pdfUrl;
+    link.download = 'Instruo14.pdf'; // specify the filename
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+  return (
+    <section className="sponsors">
+      <div className="publicise-bg">
+        <img src="/assets/Sponsors/sponsor.png" alt="" srcset="" />
+      </div>
+      <section className="publicise">
+        <h1 className="heading">Want to <br/><span><GlitchAnimator text={"Sponsor"} styles={{fontSize: "3rem"}} /></span> Us?</h1>
+        <p>
+          The 14th Edition INSTRUO 2025 promises a grander scale with events in
+          robotics, coding, entrepreneurship, aeromodelling, gaming, and more,
+          truly embodying the spirit of “Driving Innovation.” INSTRUO, the
+          annual techno-management fest of IIEST Shibpur, has grown since 2009
+          into Kolkata’s largest technical fest and the second largest in
+          Eastern India. It offers a platform for students nationwide to
+          showcase talent through competitions, exhibitions, and forums. The
+          14th Edition – INSTRUO 2025 promises a grander scale with events in
+          robotics, coding, entrepreneurship, aeromodelling, gaming, and more,
+          truly embodying the spirit of “Driving Innovation.”
+        </p>
+        <Button
+          type="primary"
+          onClick={onButtonClick}
+          size="large"
+          icon={<DownloadOutlined />}
+        >
+          Download Sponsorship Brochure
+        </Button>
+      </section>
 
-	return (
-		<main className="sponsors-page">
-			<header className="sponsors-hero">
-				<h1 className="sponsors-heading">OUR SPONSORS</h1>
-				<p className="sponsors-sub">Proud partners who make this event possible</p>
-			</header>
-
-			<section className="sponsors-list">
-				<div className="sponsors-grid" ref={gridRef}>
-					{logos.map((file, i) => (
-						<figure key={i} className="sponsor-item">
-							<img
-								className="sponsor-img"
-								src={`/assets/logo/${file}`}
-								alt={tidyName(file)}
-							/>
-							<figcaption className="sponsor-caption">{tidyName(file)}</figcaption>
-						</figure>
-					))}
-				</div>
-			</section>
-		</main>
-	);
+      <section className="past-sponsors">
+        <h1 className="heading">Past <br/><span><GlitchAnimator text={"Sponsors"} styles={{fontSize: "inherit"}} /></span></h1>
+        <div className="fbox">
+          {logos.map((logo, idx) => (
+            <div className="item" key={idx}>
+              <img src={`/assets/Sponsors/logo/${logo}`} alt={logo} />
+            </div>
+          ))}
+        </div>
+      </section>
+    </section>
+  );
 };
 
 export default Sponsors;

@@ -8,10 +8,31 @@
     color: #fff
 }
 
+.instruo-team .team-bg {
+  width: max(900px, 600px);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.instruo-team .team-bg img {
+  width: 100%;
+  opacity: 0.8;
+}
+
 .instruo-team .heading span {
     font-family: 'Rubik Glitch', cursive;
     transform: scaleY(1.2);
     font-weight: 100;
+}
+
+.instruo-team p {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    width: min(65ch, 100%);
+    text-align: center;
+    margin: 1rem 0 3rem 0;
 }
 
 .instruo-team > .heading {
@@ -20,7 +41,6 @@
     text-align: center;
     max-width: 16ch;
     line-height: 3rem;
-    margin-bottom: 3rem;
 }
 
 .instruo-team .accordion {
