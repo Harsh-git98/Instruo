@@ -42,7 +42,7 @@
     grid-row: span 3;
     padding: 1.5rem;
     border-radius: 10px;
-    background-color: #ffffff1f;
+    background-color: #5abdeb1f;
 }
 
 .about-us .instruo14 .dbox[spanner="instruo2"] {
@@ -54,7 +54,7 @@
 }
 
 .about-us .instruo14 .dbox[spanner="instruo2"]:hover {
-    background-color: #ffffff1f;
+    background-color: #836bef1f;
 }
 
 .about-us .instruo14 .dbox[spanner="instruo2"] h2 {
@@ -62,12 +62,15 @@
 }
 
 .about-us .college {
+    border-radius: 10px;
     padding: 1rem;
     width: min(1200px, 100%);
     margin-top: 2rem;
     display: flex;
     justify-content: center;
     align-items: start;
+    background-color: #ea56561f;
+
 }
 
 .about-us .college .left {
