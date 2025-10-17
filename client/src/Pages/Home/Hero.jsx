@@ -1,7 +1,6 @@
 import React from "react";
 import "./Hero.css";
 import { Link } from "react-router-dom";
-import CustomButton from "../../Components/CustomButton/CustomButton";
 import NeutralButton from "../../Components/NeutralButton/NeutralButton";
 import GlitchAnimator from "../../Components/GlitchAnimator/GlitchAnimator";
 

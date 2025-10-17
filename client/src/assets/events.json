@@ -1,0 +1,529 @@
+[
+  {
+    "_id": "rise-above",
+    "name": "Rise Above",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Shlok Vyas",
+        "phone": "7779017229"
+      }
+    ]
+  },
+  {
+    "_id": "hydroblast",
+    "name": "Hydroblast",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Mehul Mehta",
+        "phone": "6291409117"
+      }
+    ]
+  },
+  {
+    "_id": "trusst-it",
+    "name": "TRUSST It",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Harsh Gautam",
+        "phone": "9761311210"
+      }
+    ]
+  },
+  {
+    "_id": "cad-catalyst",
+    "name": "Cad Catalyst",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Ayush Dutta",
+        "phone": "8972851567"
+      }
+    ]
+  },
+  {
+    "_id": "doped",
+    "name": "Doped",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Divyanand Tripathi",
+        "phone": "8305827941"
+      }
+    ]
+  },
+  {
+    "_id": "wired-in",
+    "name": "Wired In",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Sumit Kr. Gupta",
+        "phone": "8858030143"
+      }
+    ]
+  },
+  {
+    "_id": "hardness-hustle",
+    "name": "Hardness Hustle",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Himanshu Kumar",
+        "phone": "7413930624"
+      }
+    ]
+  },
+  {
+    "_id": "narrimate",
+    "name": "Narrimate",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Dhruv Kumar",
+        "phone": "9932743944"
+      }
+    ]
+  },
+  {
+    "_id": "craft-n-cut",
+    "name": "Craft N Cut",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Santanu Mahata",
+        "phone": "9932734434"
+      }
+    ]
+  },
+  {
+    "_id": "chitrakatha-photowalk",
+    "name": "Chitrakatha & Photowalk",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Nikhil Kumar",
+        "phone": "7858010472"
+      }
+    ]
+  },
+  {
+    "_id": "eofool",
+    "name": "EOFool",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Soham Haldar",
+        "phone": "8910827714"
+      }
+    ]
+  },
+  {
+    "_id": "ode-to-code",
+    "name": "ODE to Code",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Abhinav Verma",
+        "phone": "9151740565"
+      }
+    ]
+  },
+  {
+    "_id": "vicharagni",
+    "name": "Vicharagni",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Anurag Singh",
+        "phone": "8169687574"
+      }
+    ]
+  },
+  {
+    "_id": "founder-s-goal",
+    "name": "Founder's Goal",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Yash Mahajan",
+        "phone": "9503672254"
+      }
+    ]
+  },
+  {
+    "_id": "marathon",
+    "name": "Marathon",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "N/A",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "_id": "ignite",
+    "name": "Ignite",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Chitranjan Kumar",
+        "phone": "7413936203"
+      }
+    ]
+  },
+  {
+    "_id": "battle-of-bards",
+    "name": "Battle of Bards",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Diya Ghosh",
+        "phone": "9531611480"
+      }
+    ]
+  },
+  {
+    "_id": "flashmob",
+    "name": "Flashmob",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Rishikesh Pote",
+        "phone": "8010559502"
+      }
+    ]
+  },
+  {
+    "_id": "roborumble",
+    "name": "RoboRumble",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Pratyush",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "_id": "aerocraft",
+    "name": "AEROCRAFT",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Mandeep",
+        "phone": "9021500267"
+      }
+    ]
+  },
+  {
+    "_id": "robosoccer",
+    "name": "Robosoccer",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Swayam",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "_id": "deathrace",
+    "name": "Deathrace",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Pinak Parate",
+        "phone": "9689311358"
+      }
+    ]
+  },
+  {
+    "_id": "robowar",
+    "name": "Robowar",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Pratyush & Mandeep",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "_id": "mayday-mystery",
+    "name": "MayDay Mystery",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Anamika Singh",
+        "phone": "7001271691"
+      }
+    ]
+  },
+  {
+    "_id": "mathmania",
+    "name": "Mathmania",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Achintya Sandilya",
+        "phone": "6299246335"
+      }
+    ]
+  },
+  {
+    "_id": "war-of-titans",
+    "name": "War of Titans",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Harsh Agrawal",
+        "phone": "7488844122"
+      }
+    ]
+  },
+  {
+    "_id": "junkyard",
+    "name": "Junkyard",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Anish Mansuri",
+        "phone": "8340243539"
+      }
+    ]
+  },
+  {
+    "_id": "bgmi",
+    "name": "BGMI",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Debjit Maity",
+        "phone": "8167025227"
+      }
+    ]
+  },
+  {
+    "_id": "valorant",
+    "name": "Valorant",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Debjit Maity",
+        "phone": "8167025227"
+      }
+    ]
+  },
+  {
+    "_id": "fifa",
+    "name": "Fifa",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Pritam",
+        "phone": "7856093382"
+      }
+    ]
+  },
+  {
+    "_id": "king-s-conquest",
+    "name": "King's Conquest",
+    "description": "Lorem Ipsum",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "startTime": "TBD",
+    "endTime": "TBD",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "coordinators": [
+      {
+        "name": "Anjishnu Gupta",
+        "phone": "8768453342"
+      }
+    ]
+  }
+]
