@@ -102,6 +102,10 @@
     z-index: 4;
 }
 
+.instruo-team .head .heads > div {
+    transform: scale(1.3);
+}
+
 .instruo-team .team-asset-1 {
     position: absolute;
     width: 90%;

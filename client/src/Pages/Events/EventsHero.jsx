@@ -4,6 +4,9 @@ import GlitchAnimator from "../../Components/GlitchAnimator/GlitchAnimator";
 const EventsHero = () => {
   return (
     <div className="events-hero">
+      <div className="event-bg">
+        <img src="/assets/Events/eventbg.webp" alt="" srcset="" />
+      </div>
       <GlitchAnimator text="Events" styles={{fontSize: "5rem"}} />
       <div className="byline">
         Step into the heartbeat of Instruo—our events are crafted to captivate,

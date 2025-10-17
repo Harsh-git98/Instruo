@@ -57,7 +57,7 @@ const Teams = () => {
         }}
       >
         <div className="head">
-          <span>Convenors</span>
+          <span>Convenor</span>
           <div className="heads">
             <Member
               name={'Shyamalendu Kandar'}

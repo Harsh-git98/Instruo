@@ -4,12 +4,28 @@
     justify-content: center;
     flex-direction: column;
     color: #fff;
-
     height: 100vh;
     position: relative;
     z-index: 1;
+}
 
-    background: url("/assets/events-banner.webp")no-repeat center center/cover;
+.events-hero .event-bg {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(900px, 100%);
+    min-width: 600px;
+    /* height: 100%; */
+    overflow: hidden;
+    z-index: -1;
+}
+
+.events-hero .event-bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.7;
 }
 
 .events-hero::after {
