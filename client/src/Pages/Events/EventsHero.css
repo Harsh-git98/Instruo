@@ -1,0 +1,38 @@
+.events-hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #fff;
+
+    height: 100vh;
+    position: relative;
+    z-index: 1;
+
+    background: url("/assets/events-banner.webp")no-repeat center center/cover;
+}
+
+.events-hero::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: -3;
+}
+
+.events-hero .skyblue-laser {
+    position: absolute;
+    top: 0;
+    /* z-index: 0; */
+    right: 30%;
+    height: 70vh;
+}
+
+.events-hero .byline {
+    font-size: 1.2rem;
+    width: 60%;
+    text-align:center;
+}
