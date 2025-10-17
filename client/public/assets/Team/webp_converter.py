@@ -30,6 +30,7 @@ print(allFiles)
 newchanges = []
 
 for filename in allFiles:
+    filename = filename.lower()
     if not filename.lower().endswith('.webp') and not filename.lower().endswith('.py'):
         input_path = './client/public/assets/Team/'+filename
         if filename.split('.')[0] + '.webp' in allFiles:
