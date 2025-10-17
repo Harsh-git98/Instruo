@@ -2,12 +2,13 @@ import React from "react";
 import "./Hype.css";
 import HypeCard from "../../Components/HypeCard/HypeCard";
 import { CalendarOutlined, SmileOutlined, SmileTwoTone, TrophyOutlined, UsergroupAddOutlined } from "@ant-design/icons";
+import GlitchAnimator from "../../Components/GlitchAnimator/GlitchAnimator";
 
 const Hype = () => {
     return (
         <section className="instruo-hype">
             <div className="heading">
-                Making The Hype <span className="highlight">Real</span>
+                Making The Hype <span className="highlight"><GlitchAnimator text={'Real'} styles={{ fontSize: '3rem' }} /></span>
             </div>
             <div className="hype-stats">
                 <HypeCard

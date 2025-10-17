@@ -37,7 +37,13 @@ const Teams = () => {
         Team
       </div>
       <p>
-        Welcome to the heart of our techfest! This page introduces the dedicated minds, the innovators, and the organizers who bring this entire event to life. We are a diverse group of students and enthusiasts, united by a shared passion for technology, learning, and building a vibrant community. Every successful event is the result of countless hours of planning and execution, and we are proud to present the individuals driving this year's festival.
+        Welcome to the heart of our techfest! This page introduces the dedicated
+        minds, the innovators, and the organizers who bring this entire event to
+        life. We are a diverse group of students and enthusiasts, united by a
+        shared passion for technology, learning, and building a vibrant
+        community. Every successful event is the result of countless hours of
+        planning and execution, and we are proud to present the individuals
+        driving this year's festival.
       </p>
       <div
         style={{
@@ -50,27 +56,15 @@ const Teams = () => {
           alignItems: 'center',
         }}
       >
-        <div className="heads">
-          <Member
-            name={'Somename Title'}
-            position={'Professor'}
-            src={'/assets/ProfilePic/profilepic.png'}
-          />
-          <Member
-            name={'Somename Title'}
-            position={'Professor'}
-            src={'/assets/ProfilePic/profilepic.png'}
-          />
-          <Member
-            name={'Somename Title'}
-            position={'Professor'}
-            src={'/assets/ProfilePic/profilepic.png'}
-          />
-          <Member
-            name={'Somename Title'}
-            position={'Professor'}
-            src={'/assets/ProfilePic/profilepic.png'}
-          />
+        <div className="head">
+          <span>Convenors</span>
+          <div className="heads">
+            <Member
+              name={'Shyamalendu Kandar'}
+              position={'Assistant Professor'}
+              src={'/assets/Team/shyamalendu_kandar.webp'}
+            />
+          </div>
         </div>
       </div>
       <Collapse

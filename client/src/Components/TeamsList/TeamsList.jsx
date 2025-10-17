@@ -59,7 +59,7 @@ const TeamsList = ({ teamsData }) => {
                                     <Member
                                         name={e.name}
                                         position={e.position}
-                                        src={e.imag ? e.img : "/assets/ProfilePic/profilepic.png"}
+                                        src={e.img}
                                         key={ukey++}
                                     />
                                 );

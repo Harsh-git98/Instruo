@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 package-lock.json
+
+public/assets/Team/*.png
+public/assets/Team/*.jpg
+public/assets/Team/*.jpeg

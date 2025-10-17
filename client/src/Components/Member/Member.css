@@ -43,6 +43,23 @@
     left: 0;
 }
 
-.vanish {
+.vanish img{
     opacity: 0 !important;
+}
+
+.vanish {
+    background-color: #ffffff;
+    border-radius: 1px solid #fff;
+}
+
+.member .fallback {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    mask-image: url("/assets/hexfilled.svg");
+    mask-size: contain;
+    object-fit: cover;
+    z-index: -1;
 }

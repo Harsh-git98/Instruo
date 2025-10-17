@@ -6,6 +6,7 @@ const Member = ({name, position, src}) => {
   return (
     <div className={"member " + vanish}>
         <img src={src} alt="img" />
+        <img src={"/assets/ProfilePic/profilepic.png"} alt="img" className='fallback'/>
         <div className="info">
             <span style={{fontSize: '1.2rem', fontWeight: 600, lineHeight: '1.2rem', width: '12ch'}}>{name}</span>
             <span style={{color: 'rgba(255, 255, 255, 0.6)', fontSize: '1rem'}}>{position}</span>

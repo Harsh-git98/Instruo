@@ -1,6 +1,7 @@
 import React from "react";
 import "./Timer.css";
 import { useEffect, useState } from "react";
+import GlitchAnimator from "../../Components/GlitchAnimator/GlitchAnimator";
 
 const Box = ({ time, label }) => (
     <div className="box">
@@ -44,7 +45,7 @@ const Timer = () => {
             <div className="plane">
                 <img src="/assets/Home/instruo-plane.svg" alt="plane" />
             </div>
-            <div className="heading">Coming Soon</div>
+            <div className="heading"><GlitchAnimator text={'Coming Soon'} styles={{ fontSize: 'inherit' }} /></div>
             <div className="countdown">
                 <Box time={String(timeLeft.days).padStart(2, '0')} label="DAYS" />
                 <Box time={String(timeLeft.hours).padStart(2, '0')} label="HOURS" />

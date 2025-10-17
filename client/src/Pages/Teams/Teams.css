@@ -76,16 +76,28 @@
     z-index: 6;
 }
 
-.instruo-team .heads {
+.instruo-team .head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     background: hsla(0, 0%, 0%, 0.77);
+    border: 2px solid hsla(0, 0%, 100%, 0.13);
+    margin-bottom: 2rem;
     width: min(calc(100vw - 2rem), 1000px);;
+}
+
+.instruo-team .head span {
+    font-size: 2.7rem;
+    font-weight: 600;
+}
+
+.instruo-team .head .heads {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     padding: 2rem;
-    border: 2px solid hsla(0, 0%, 100%, 0.13);
-    margin-bottom: 2rem;
     position: relative;
     z-index: 4;
 }
