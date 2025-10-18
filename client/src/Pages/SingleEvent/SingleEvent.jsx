@@ -6,20 +6,14 @@ import allEvents from '../../assets/events.json';
 import { Alert } from 'antd';
 import GlitchAnimator from '../../Components/GlitchAnimator/GlitchAnimator';
 import { FieldTimeOutlined } from '@ant-design/icons';
+import PageNotFound from '../PageNotFound/PageNotFound';
 
 const SingleEvent = () => {
   const { eventID } = useParams();
   const oneEvent = allEvents.find((ev) => ev._id === eventID);
-  console.log(oneEvent);
-  console.log(eventID);
-
-  // Ensure allEvents is available before filtering
-  if (!allEvents || allEvents.length === 0) {
-    return <div style={{ height: '100vh', width: '100vw' }}>Loading...</div>;
-  }
 
   if (!oneEvent) {
-    return <div style={{ height: '100vh' }}>Page not found</div>;
+    return <PageNotFound />;
   }
 
   return (

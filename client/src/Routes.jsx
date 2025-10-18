@@ -6,6 +6,7 @@ import ComingSoon from "./Pages/ComingSoon/ComingSoon";
 import Events from "./Pages/Events/Events";
 import SingleEvent from "./Pages/SingleEvent/SingleEvent";
 import Sponsors from "./Pages/Sponsors/Sponsors";
+import PageNotFound from "./Pages/PageNotFound/PageNotFound";
 
 const AllRoutes = () => {
     return (
@@ -15,6 +16,7 @@ const AllRoutes = () => {
             <Route path="/events" element={<Events />} />
             <Route path="/sponsors" element={<Sponsors />} />
             <Route exact path="/events/:eventID" element={<SingleEvent />} />
+            <Route path="/*" element={<PageNotFound />} />
         
         </Routes>
     )
