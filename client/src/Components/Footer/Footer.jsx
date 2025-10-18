@@ -74,6 +74,7 @@ const PersonDetails = ({ name, phone, email }) => {
 const Footer = () => {
     return (
         <footer className="nf">
+            <div className="nf-topdesign"></div>
             <div className="fcontent">
                 <div className="about-instruo">
                     <div className="heading">
