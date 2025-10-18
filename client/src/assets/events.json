@@ -10,6 +10,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Team",
     "coordinators": [
       {
         "name": "Shlok Vyas",
@@ -28,6 +29,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Team",
     "coordinators": [
       {
         "name": "Mehul Mehta",
@@ -46,6 +48,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Team",
     "coordinators": [
       {
         "name": "Harsh Gautam",
@@ -64,6 +67,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Single",
     "coordinators": [
       {
         "name": "Ayush Dutta",
@@ -82,6 +86,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Mixed",
     "coordinators": [
       {
         "name": "Divyanand Tripathi",
@@ -100,6 +105,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Mixed",
     "coordinators": [
       {
         "name": "Sumit Kr. Gupta",
@@ -118,6 +124,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": null,
     "coordinators": [
       {
         "name": "Himanshu Kumar",
@@ -136,6 +143,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type":"Single",
     "coordinators": [
       {
         "name": "Dhruv Kumar",
@@ -154,6 +162,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type":"Single",
     "coordinators": [
       {
         "name": "Santanu Mahata",
@@ -162,8 +171,8 @@
     ]
   },
   {
-    "_id": "chitrakatha-photowalk",
-    "name": "Chitrakatha & Photowalk",
+    "_id": "chitrakatha",
+    "name": "Chitrakatha",
     "description": "Chitrakatha is a unique photography-based storytelling competition designed to bring creativity and narrative skills together through the art of visuals. Participants will be challenged to arrange a sequence of photographs in such a way that they collectively tell a compelling story. Instead of relying on words, the emphasis will be on using imagery, perspective, and sequence to convey emotions, themes, and messages.",
     "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
@@ -172,6 +181,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type":null,
     "coordinators": [
       {
         "name": "Nikhil Kumar",
@@ -190,6 +200,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type":"Mixed",
     "coordinators": [
       {
         "name": "Soham Haldar",
@@ -208,6 +219,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type":null,
     "coordinators": [
       {
         "name": "Abhinav Verma",
@@ -226,6 +238,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": null,
     "coordinators": [
       {
         "name": "Anurag Singh",
@@ -244,6 +257,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": null,
     "coordinators": [
       {
         "name": "Yash Mahajan",
@@ -262,6 +276,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": null,
     "coordinators": [
       {
         "name": "N/A",
@@ -280,6 +295,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type":"Team",
     "coordinators": [
       {
         "name": "Chitranjan Kumar",
@@ -298,6 +314,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type":"Team",
     "coordinators": [
       {
         "name": "Diya Ghosh",
@@ -316,6 +333,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type":null,
     "coordinators": [
       {
         "name": "Rishikesh Pote",
@@ -334,6 +352,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Mixed",
     "coordinators": [
       {
         "name": "Pratyush",
@@ -352,6 +371,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Team",
     "coordinators": [
       {
         "name": "Mandeep",
@@ -370,6 +390,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Team",
     "coordinators": [
       {
         "name": "Swayam",
@@ -388,6 +409,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Team",
     "coordinators": [
       {
         "name": "Pinak Parate",
@@ -406,6 +428,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Team",
     "coordinators": [
       {
         "name": "Pratyush & Mandeep",
@@ -424,10 +447,11 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Team",
     "coordinators": [
       {
         "name": "Anamika Singh",
-        "phone": "7001271691"
+        "phone": "9932692869"
       }
     ]
   },
@@ -442,6 +466,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type":null,
     "coordinators": [
       {
         "name": "Achintya Sandilya",
@@ -460,17 +485,18 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": null,
     "coordinators": [
       {
         "name": "Harsh Agrawal",
-        "phone": "7488844122"
+        "phone": "7488484122"
       }
     ]
   },
   {
     "_id": "junkyard",
     "name": "Junkyard",
-    "description": "Junkyard is a two-round event where participants compete in teams of 2–3 members. In the first round, teams solve an aptitude test consisting of 30 questions on quantitative ability, logical reasoning, and verbal skills within 1 hour. Selected teams advance to the second round, where they are given scrap materials and a problem statement to build a working model or structure within 2 hours. The event tests analytical ability, creativity, and teamwork.",
+    "description": "Junkyard is a two-round event where participants compete in teams of 2-3 members. In the first round, teams solve an aptitude test consisting of 30 questions on quantitative ability, logical reasoning, and verbal skills within 1 hour. Selected teams advance to the second round, where they are given scrap materials and a problem statement to build a working model or structure within 2 hours. The event tests analytical ability, creativity, and teamwork.",
     "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
@@ -478,6 +504,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type":"Team",
     "coordinators": [
       {
         "name": "Anish Mansuri",
@@ -496,6 +523,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Mixed",
     "coordinators": [
       {
         "name": "Debjit Maity",
@@ -514,6 +542,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Mixed",
     "coordinators": [
       {
         "name": "Debjit Maity",
@@ -532,6 +561,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Mixed",
     "coordinators": [
       {
         "name": "Pritam",
@@ -550,6 +580,7 @@
     "endTime": "TBD",
     "rulesDoc": null,
     "venue": "TBD",
+    "type": "Single",
     "coordinators": [
       {
         "name": "Anjishnu Gupta",
