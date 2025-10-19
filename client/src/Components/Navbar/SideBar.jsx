@@ -9,6 +9,7 @@ import Icon, {
     TeamOutlined,
     MenuOutlined,
     HomeOutlined,
+    ShopOutlined,
 } from "@ant-design/icons";
 const { Header } = Layout;
 
@@ -103,11 +104,11 @@ const DrawerSidebar = () => {
                             Events
                         </Link>
                     </Menu.Item>
-                    {/* <Menu.Item key="/workshops" icon={<ToolOutlined />}>
-                        <Link to="/workshops" onClick={closeDrawer}>
-                            Workshops
+                    <Menu.Item key="/merchandise" icon={<ShopOutlined />}>
+                        <Link to="/merchandise" onClick={closeDrawer}>
+                            Merchandise
                         </Link>
-                    </Menu.Item> */}
+                    </Menu.Item>
                     <Menu.Item key="/sponsor" icon={<DollarOutlined />}>
                         <Link to="/sponsors" onClick={closeDrawer}>
                             Sponsors
