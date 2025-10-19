@@ -246,16 +246,6 @@
     "name": "Web Development",
     "members": [
       {
-        "name": "Mohak Singh",
-        "position": "Head",
-        "img": "./assets/Team/mohak_singh.webp"
-      },
-      {
-        "name": "Harsh Ranjan",
-        "position": "Head",
-        "img": "./assets/Team/harsh_ranjan.webp"
-      },
-      {
         "name": "Abhijit Karmakar",
         "position": "Head",
         "img": "./assets/Team/abhijit_karmakar.webp"
@@ -264,6 +254,16 @@
         "name": "Soumyajit Karmakar",
         "position": "Head",
         "img": "./assets/Team/soumyajit_karmakar.webp"
+      },
+      {
+        "name": "Mohak Singh",
+        "position": "Head",
+        "img": "./assets/Team/mohak_singh.webp"
+      },
+      {
+        "name": "Harsh Ranjan",
+        "position": "Head",
+        "img": "./assets/Team/harsh_ranjan.webp"
       },
       {
         "name": "Anish Mansuri",

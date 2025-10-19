@@ -7,6 +7,7 @@ import Events from "./Pages/Events/Events";
 import SingleEvent from "./Pages/SingleEvent/SingleEvent";
 import Sponsors from "./Pages/Sponsors/Sponsors";
 import PageNotFound from "./Pages/PageNotFound/PageNotFound";
+import Merchandise from "./Pages/Merchandise/Merchandise";
 
 const AllRoutes = () => {
     return (
@@ -16,6 +17,7 @@ const AllRoutes = () => {
             <Route path="/events" element={<Events />} />
             <Route path="/sponsors" element={<Sponsors />} />
             <Route exact path="/events/:eventID" element={<SingleEvent />} />
+            <Route path="/merchandise" element={<Merchandise />} />
             <Route path="/*" element={<PageNotFound />} />
         
         </Routes>
