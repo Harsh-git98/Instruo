@@ -5,6 +5,7 @@ import Timer from "./Timer";
 import AboutUs from "./AboutUs";
 import Ready from "./Ready";
 import Gallery from "./Gallery";
+import DownloadApp from "./DownloadApp";
 
 const Home = () => {
     return (
@@ -13,8 +14,8 @@ const Home = () => {
             <Timer />
             <Hype />
             <AboutUs />
-            {/* <Ready /> */}
             <Gallery />
+            {/* <DownloadApp /> */}
         </div>
     );
 };
