@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import {
   Layout,
   Menu,
@@ -10,7 +10,7 @@ import {
   Button,
   Divider,
 } from 'antd';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import {
   ToolOutlined,
   CalendarOutlined,
@@ -20,7 +20,7 @@ import {
   SettingOutlined,
   LogoutOutlined,
   HomeOutlined,
-  ShoppingOutlined
+  ShoppingOutlined,
 } from '@ant-design/icons';
 import DrawerSidebar from './SideBar';
 // import ProfileDropdown from "./ProfileDropdown";
@@ -31,7 +31,15 @@ const { Header } = Layout;
 
 const Navbar = ({ user, login, logout }) => {
   const width = window.innerWidth;
-  const [selectedKey, setSelectedKey] = useState(['']);
+  const [selectedKey, setSelectedKey] = useState(['/']);
+  const location = useLocation();
+
+  useEffect(() => {
+    // Map pathname to the top-level route key (e.g. /events/123 -> /events)
+    const base = location.pathname.split('/')[1];
+    const active = base ? `/${base}` : '/';
+    setSelectedKey([active]);
+  }, [location.pathname]);
 
   return (
     <>
@@ -89,9 +97,9 @@ const Navbar = ({ user, login, logout }) => {
                 <Link to="/events">Events</Link>
               </Menu.Item>
               <Menu.Item
-                key="/sponsor"
+                key="/sponsors"
                 icon={<DollarOutlined />}
-                onClick={() => setSelectedKey(['/sponsor'])}
+                onClick={() => setSelectedKey(['/sponsors'])}
               >
                 <Link to="/sponsors">Sponsors</Link>
               </Menu.Item>
