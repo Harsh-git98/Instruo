@@ -43,7 +43,7 @@ const Navbar = ({ user, login, logout }) => {
 
   return (
     <>
-      {width >= 810 ? (
+      {width >= 820 ? (
         <Layout>
           <Header
             style={{

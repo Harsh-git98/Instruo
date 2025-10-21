@@ -18,16 +18,31 @@
 
 .menu-open-button {
     padding: 0.3rem;
-    color: "#fff";
+    color: #fff;
     font-weight: 700;
     font-size: 1rem;
     position: fixed;
     top: 1.2rem;
     left: 1.2rem;
-    border-radius: 3px;
 }
 
 .menu-open-button:hover {
     background-color: #ffffff4b !important;
     transition: all 0.2s;
+}
+
+.ant-drawer-header {
+    background-color: var(--app-background) !important;
+}
+
+.instruo-sidebar .ant-menu-item {
+    font-size: 1.2rem !important;
+    margin: 0 !important;
+    padding: 2rem !important;
+    border-radius: 0 !important;
+}
+
+.instruo-sidebar .ant-menu-item-selected {
+    color: #2697f9 !important;
+    background: none !important;
 }
