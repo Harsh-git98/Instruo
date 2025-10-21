@@ -112,9 +112,9 @@
         "img": "./assets/Team/anjali_kumari.webp"
       },
       {
-        "name": "Gorv Devpura",
+        "name": "Gourav Devpura",
         "position": "Executive",
-        "img": "./assets/Team/gorv_devpura.webp"
+        "img": "./assets/Team/gourav_devpura.webp"
       },
       {
         "name": "Anurag Chaurasia",
@@ -200,9 +200,9 @@
         "img": "./assets/Team/varun_chaudhary.webp"
       },
       {
-        "name": "Deepam Nayak",
+        "name": "Dipam Nayek",
         "position": "Head",
-        "img": "./assets/Team/deepam_nayak.webp"
+        "img": "./assets/Team/dipam_nayek.webp"
       },
       {
         "name": "Subhoshri Pal",
@@ -225,9 +225,9 @@
         "img": "./assets/Team/vedant_dhanraj_bagde.webp"
       },
       {
-        "name": "Sanskriti Roy",
+        "name": "Sanskriti Ray",
         "position": "Executive",
-        "img": "./assets/Team/sanskriti_roy.webp"
+        "img": "./assets/Team/sanskriti_ray.webp"
       },
       {
         "name": "Rohan Vikas kudtudkar",
@@ -344,19 +344,19 @@
         "img": "./assets/Team/sai_prasad.webp"
       },
       {
+        "name": "Saptarshi Chatterjee",
+        "position": "Head",
+        "img": "./assets/Team/saptarshi_chatterjee.webp"
+      },
+      {
         "name": "Shubh Ashutosh",
-        "position": "Executive",
+        "position": "Head",
         "img": "./assets/Team/shubh_ashutosh.webp"
       },
       {
         "name": "Madhire Kalyan Sathwik",
-        "position": "Executive",
+        "position": "Head",
         "img": "./assets/Team/madhire_kalyan_sathwik.webp"
-      },
-      {
-        "name": "Spatrishi",
-        "position": "Executive",
-        "img": "./assets/Team/spatrishi.webp"
       },
       {
         "name": "Sagnik Ganguly",
@@ -369,9 +369,9 @@
         "img": "./assets/Team/aditya_raj_verma.webp"
       },
       {
-        "name": "Ankit Singh",
+        "name": "Ankit Kumar",
         "position": "Executive",
-        "img": "./assets/Team/ankit_singh.webp"
+        "img": "./assets/Team/ankit_kumar.webp"
       },
       {
         "name": "Raj Bharti",
@@ -379,9 +379,9 @@
         "img": "./assets/Team/raj_bharti.webp"
       },
       {
-        "name": "Nirupama",
+        "name": "Nirupama Thakur",
         "position": "Executive",
-        "img": "./assets/Team/nirupama.webp"
+        "img": "./assets/Team/nirupama_thakur.webp"
       }
     ]
   },
@@ -425,9 +425,9 @@
         "img": "./assets/Team/adesh_pal.webp"
       },
       {
-        "name": "Jigyasa kumari",
+        "name": "Jigyasha Kumari",
         "position": "Executive",
-        "img": "./assets/Team/jigyasa_kumari.webp"
+        "img": "./assets/Team/jigyasha_kumari.webp"
       }
     ]
   }
