@@ -48,8 +48,9 @@
 }
 
 .vanish {
-    background-color: #ffffff;
-    border-radius: 1px solid #fff;
+    background: url("/assets/ProfilePic/dummy.webp");
+    background-size: contain;
+    border-radius: 1px;
 }
 
 .member .fallback {
