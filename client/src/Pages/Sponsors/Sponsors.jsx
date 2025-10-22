@@ -11,7 +11,7 @@ const logos = [
   'bisleri_logo.png',
   'cafe-coffee-day-logo.png',
   'CESC_logo.png',
-  'coal_india.avif',
+  'coal_india_limited_logo.avif',
   'edudite_logo.png',
   'Fleapo Logo.png',
   'Friends Pizza Logo.png',
