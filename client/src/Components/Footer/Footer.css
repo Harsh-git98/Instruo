@@ -71,6 +71,30 @@
     color: #9ca3af;
 }
 
+.nf .fcontent .about-instruo .apk {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 0.5rem;
+    border: 0.5px solid #515151;
+    border-radius: 0.4rem;
+    margin: 1rem 0;
+    background: #232323;
+    transition: all 0.2s ease;
+    color: #fff;
+}
+
+.nf .fcontent .about-instruo .apk:hover {
+    background: #3b3b3b;
+    border-color: #9ca3af;
+    cursor: pointer;
+}
+
+.nf .fcontent .about-instruo .apk img {
+    height: 1.5rem;
+}
+
 .nf .fcontent .people {
     display: flex;
     justify-content: center;
