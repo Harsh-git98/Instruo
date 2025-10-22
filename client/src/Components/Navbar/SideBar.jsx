@@ -38,7 +38,7 @@ const DrawerSidebar = () => {
     >
       <Layout>
         <Header
-        className='instruo-sidebar'
+          className="instruo-sidebar"
           style={{
             position: 'fixed',
             zIndex: 1000,
@@ -95,7 +95,7 @@ const DrawerSidebar = () => {
             backgroundSize: 'cover',
             backgroundRepeat: 'no-repeat',
           }}
-          className='instruo-sidebar'
+          className="instruo-sidebar"
         >
           <Menu.Item key="/" icon={<HomeOutlined />}>
             <Link to="/" onClick={closeDrawer}>
@@ -122,6 +122,20 @@ const DrawerSidebar = () => {
               Our Team
             </Link>
           </Menu.Item>
+          {/* <div
+            style={{
+              color: 'white',
+              whiteSpace: 'normal',
+              lineHeight: 1.2,
+              wordWrap: 'break-word',
+              fontSize: "1.2rem",
+              padding: "2rem",
+            }}
+          >
+            Download the official Instruo app to register for events, view
+            schedules, locate venues and much more!
+          <button onClick={()=>window.open("https://instruo.tech", "_blank")} className="apk"><img src="/assets/mediafire.svg" />Download the app</button>
+          </div> */}
         </Menu>
       </Drawer>
     </ConfigProvider>
