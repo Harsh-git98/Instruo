@@ -128,7 +128,7 @@
     "coordinators": [
       {
         "name": "Himanshu Kumar",
-        "phone": "7413930624"
+        "phone": "7413920624"
       }
     ]
   },
@@ -587,5 +587,48 @@
         "phone": "8768453342"
       }
     ]
+  },
+  {
+    "_id": "real-cricket",
+    "name": "Real Cricket",
+    "description": "Gear up, champs! It's time to swap the field for your phone and dive into Real Cricket, the ultimate mobile cricket clash where timing, tactics, and precision decide your fate! 🎮⚡ Step onto the virtual pitch, build your dream innings, and smash those sixes like a pro — because every shot counts and every over brings you closer to victory! 💥 Whether you're a cover drive king or a yorker specialist, this is your stage to show off your cricketing instincts and dominate the leaderboard. 🏆 So pad up, grab your virtual bat, and let's see who hits it out of the park! ",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "registrationUrl": "",
+    "startTime": "31st Oct 2025, 12:00 AM",
+    "endTime": "3rd Nov 2025, 11:59 PM",
+    "rulesDoc": null,
+    "venue": "Lords",
+    "type": "Single",
+    "coordinators": [
+      {
+        "name": "Arka Mondal",
+        "phone": "9474762287"
+      }
+    ]
+  },
+  {
+    "_id": "speedcubing-showdown",
+    "name": "Speedcubing Showdown",
+    "description": "Ready, set, twist! 🤩 SOCIT brings you the ultimate Speedcubing Challenge, where quick thinking meets lightning-fast fingers! 🔥 Solve the classic 3x3 Rubik's Cube in record time and prove your mastery over color, logic, and pure focus. 💫 Every second counts as you twist, turn, and snap your way toward perfection — can you beat the clock before anyone else? ⏱️ Whether you're a casual solver or a cubing prodigy, this is your chance to show off those smooth moves and claim your crown as the cube champion! 👑🧠",
+    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "registrationUrl": "",
+    "startTime": "31st Oct 2025, 12:00 AM",
+    "endTime": "3rd Nov 2025, 11:59 PM",
+    "rulesDoc": null,
+    "venue": "Lords",
+    "type": "Single",
+    "coordinators": [
+      {
+        "name": "Priyanshu Raj",
+        "phone": "7250148414"
+      },
+      {
+        "name": "Sourov Debnath",
+        "phone": "9635674194"
+      }
+    ]
   }
+  
 ]
