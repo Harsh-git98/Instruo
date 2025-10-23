@@ -32,7 +32,7 @@ const SingleEvent = () => {
       >
         <div className="event-single-overlay">
           <div className="eposter">
-            <div className="regfee">Fee ₹ {oneEvent?.registrationFee || "--"}</div>
+            {/* <div className="regfee">Fee ₹ {oneEvent?.registrationFee || "--"}</div> */}
             <img src={oneEvent.poster} alt={'Poster'} />
           </div>
           <div className="event-single-header">
@@ -42,7 +42,7 @@ const SingleEvent = () => {
               <FieldTimeOutlined /> {oneEvent?.startTime} to {oneEvent?.endTime}
             </p>
             <div className="eposter-mobile">
-              <div className="regfee">Fee ₹ {oneEvent?.registrationFee || "--"}</div>
+              {/* <div className="regfee">Fee ₹ {oneEvent?.registrationFee || "--"}</div> */}
               <img src={oneEvent.poster} alt={'Poster'} />
             </div>
           </div>
