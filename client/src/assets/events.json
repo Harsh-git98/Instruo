@@ -2,8 +2,8 @@
   {
     "_id": "rise-above",
     "name": "Rise Above",
-    "description": "Get ready to take engineering to the skies! Rise Above is all about designing and flying your own RC aircraft that can lift off smoothly, carry a payload, and stay airborne like a boss. It's not just about flying\u2014it\u2019s about proving your aerodynamics game is strong.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Get ready to take engineering to the skies! Rise Above is all about designing and flying your own RC aircraft that can lift off smoothly, carry a payload, and stay airborne like a boss. It's not just about flying—it’s about proving your aerodynamics game is strong.",
+    "poster": "/assets/posters/riseabove.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "1st Nov 2025, 9:30 AM",
@@ -22,7 +22,7 @@
     "_id": "hydroblast",
     "name": "Hydroblast",
     "description": "Launch it, watch it soar, and pray it lands where you aimed! Hydroblast is the ultimate water-rocket faceoff where brains meet blast. Design, pressurize, and launch your rocket for insane height or perfect accuracy. Physics just got a lot more fun (and a little wet).",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "poster": "/assets/posters/hydroblast.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 2:00 PM",
@@ -40,8 +40,8 @@
   {
     "_id": "trusst-it",
     "name": "TRUSST It",
-    "description": "Think popsicle sticks are weak? Think again. In TRUSST It, you\u2019ll craft bridges strong enough to hold their own weight\u2014and your pride. Precision, patience, and teamwork will decide who\u2019s the ultimate bridge boss.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Think popsicle sticks are weak? Think again. In TRUSST It, you’ll craft bridges strong enough to hold their own weight—and your pride. Precision, patience, and teamwork will decide who’s the ultimate bridge boss.",
+    "poster": "/assets/posters/trusstit.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "2nd Nov 2025, 10:00 AM",
@@ -59,8 +59,8 @@
   {
     "_id": "cad-catalyst",
     "name": "Cad Catalyst",
-    "description": "Design nerds, this one\u2019s yours! CAD Catalyst is where imagination meets solid modeling. Show off your skills in AutoCAD, Fusion 360, SolidWorks, or CATIA as you turn raw ideas into sleek 2D and 3D creations. It's all about speed, precision, and pure design swagger.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Design nerds, this one’s yours! CAD Catalyst is where imagination meets solid modeling. Show off your skills in AutoCAD, Fusion 360, SolidWorks, or CATIA as you turn raw ideas into sleek 2D and 3D creations. It's all about speed, precision, and pure design swagger.",
+    "poster": "/assets/posters/cadcatalyst.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 6:00 PM",
@@ -78,8 +78,8 @@
   {
     "_id": "doped",
     "name": "Doped",
-    "description": "Doped is where circuit nerds flex their brain cells! Dive deep into RLCs, logic gates, and semiconductors with quizzes that separate the pros from the poseurs. Two rounds of mind-bending questions await\u2014no calculators, just pure voltage in your veins.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Doped is where circuit nerds flex their brain cells! Dive deep into RLCs, logic gates, and semiconductors with quizzes that separate the pros from the poseurs. Two rounds of mind-bending questions await—no calculators, just pure voltage in your veins.",
+    "poster": "/assets/posters/doped.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 6:00 PM",
@@ -97,8 +97,8 @@
   {
     "_id": "wired-in",
     "name": "Wired In",
-    "description": "Plug in and power up! Wired In is your shot to prove your electrical and electronics know-how. From brainy quizzes to on-the-spot circuit challenges, this event will test whether you\u2019re truly wired for engineering.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Plug in and power up! Wired In is your shot to prove your electrical and electronics know-how. From brainy quizzes to on-the-spot circuit challenges, this event will test whether you’re truly wired for engineering.",
+    "poster": "/assets/posters/wiredin.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "1st Nov 2025, 10:00 AM",
@@ -116,8 +116,8 @@
   {
     "_id": "hardness-hustle",
     "name": "Hardness Hustle",
-    "description": "Description dropping soon \u2014 it\u2019s going to be tougher than it sounds!",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Description dropping soon — it’s going to be tougher than it sounds!",
+    "poster": "/assets/posters/hardnesshustle.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 6:30 PM",
@@ -136,7 +136,7 @@
     "_id": "narrimate",
     "name": "Narrimate",
     "description": "Got a story to tell? Narrimate is your chance to turn words into magic. Craft your own short animated tale using AI tools or your own flair. The better your script and creativity, the higher you soar in this storytelling showdown.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "poster": "/assets/posters/narrimate.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "2nd Nov 2025, 08:30 AM",
@@ -154,8 +154,8 @@
   {
     "_id": "craft-n-cut",
     "name": "Craft N Cut",
-    "description": "Lights, clips, action! Craft N Cut is the edit-off you\u2019ve been waiting for. Trim, sync, color, and slice your way to cinematic glory before the clock runs out. Who says editors don\u2019t rule the show?",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Lights, clips, action! Craft N Cut is the edit-off you’ve been waiting for. Trim, sync, color, and slice your way to cinematic glory before the clock runs out. Who says editors don’t rule the show?",
+    "poster": "/assets/posters/craftncut.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 6:00 PM",
@@ -173,8 +173,8 @@
   {
     "_id": "chitrakatha",
     "name": "Chitrakatha",
-    "description": "Let your photos do the talking. In Chitrakatha, you\u2019ll weave a story entirely through pictures. It\u2019s all about the eye, the frame, and the emotion behind every click. Can you narrate without a single word?",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Let your photos do the talking. In Chitrakatha, you’ll weave a story entirely through pictures. It’s all about the eye, the frame, and the emotion behind every click. Can you narrate without a single word?",
+    "poster": "/assets/posters/chitrakatha.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "2nd Nov 2025, 12:00 PM",
@@ -192,12 +192,12 @@
   {
     "_id": "eofool",
     "name": "EOFool",
-    "description": "EOFool is not your regular CTF\u2014it\u2019s 48 hours of pure hacking chaos. Crack cryptos, chase flags, and flex your reverse-engineering skills. Every second counts, and every solve boosts your glory. Think you\u2019ve got what it takes? Prove it.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "EOFool is not your regular CTF—it’s 48 hours of pure hacking chaos. Crack cryptos, chase flags, and flex your reverse-engineering skills. Every second counts, and every solve boosts your glory. Think you’ve got what it takes? Prove it.",
+    "poster": "/assets/posters/eofool.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
-    "startTime": "30th Oct 2025, 12:00 AM",
-    "endTime": "31st Oct 2025, 11:59 PM",
+    "startTime": "30th Oct 2025, 12:00 PM",
+    "endTime": "1st Nov 2025, 12:00 PM",
     "rulesDoc": null,
     "venue": "TBD",
     "type": "Mixed",
@@ -211,8 +211,8 @@
   {
     "_id": "ode-to-code",
     "name": "ODE to Code",
-    "description": "Fast fingers, sharp logic, zero chill. ODE to Code is where coders battle the clock and each other to solve the nastiest problems. It\u2019s logic, pressure, and caffeine in perfect harmony.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Fast fingers, sharp logic, zero chill. ODE to Code is where coders battle the clock and each other to solve the nastiest problems. It’s logic, pressure, and caffeine in perfect harmony.",
+    "poster": "/assets/posters/odetocode.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 6:00 PM",
@@ -230,8 +230,8 @@
   {
     "_id": "vicharagni",
     "name": "Vicharagni",
-    "description": "Vicharagni isn\u2019t your everyday debate\u2014it\u2019s fire meets intellect. Go head-to-head in high-stakes clashes of logic, ethics, and wit. Whether you\u2019re defending or destroying an argument, this is where your words spark flames.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Vicharagni isn’t your everyday debate—it’s fire meets intellect. Go head-to-head in high-stakes clashes of logic, ethics, and wit. Whether you’re defending or destroying an argument, this is where your words spark flames.",
+    "poster": "/assets/posters/vicharagni.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "TBD",
@@ -249,8 +249,8 @@
   {
     "_id": "founder-s-goal",
     "name": "Founder's Goal",
-    "description": "Description coming soon \u2014 but trust us, it\u2019s going to be entrepreneurial madness!",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Description coming soon — but trust us, it’s going to be entrepreneurial madness!",
+    "poster": "/assets/posters/foundersgoal.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "1st Nov 2025, 11:00 AM",
@@ -266,29 +266,10 @@
     ]
   },
   {
-    "_id": "marathon",
-    "name": "Marathon",
-    "description": "Description dropping soon \u2014 lace up, something exciting is coming!",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
-    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
-    "registrationUrl": "",
-    "startTime": "TBD",
-    "endTime": "TBD",
-    "rulesDoc": null,
-    "venue": "TBD",
-    "type": null,
-    "coordinators": [
-      {
-        "name": "N/A",
-        "phone": "N/A"
-      }
-    ]
-  },
-  {
     "_id": "ignite",
     "name": "Ignite",
     "description": "Light up your ideas with Ignite! Start by cracking a real-world case study, then step up to pitch your killer solution on stage. It's brains, creativity, and presentation power rolled into one.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "poster": "/assets/posters/ignite.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "1st Nov 2025, 02:00 PM",
@@ -306,8 +287,8 @@
   {
     "_id": "battle-of-bards",
     "name": "Battle of Bards",
-    "description": "Quick wits, wordplay, and puzzles collide in Battle of Bards. It\u2019s spontaneous, smart, and slightly chaotic. Think fast, talk faster, and charm your way through rounds that test how clever you really are.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Quick wits, wordplay, and puzzles collide in Battle of Bards. It’s spontaneous, smart, and slightly chaotic. Think fast, talk faster, and charm your way through rounds that test how clever you really are.",
+    "poster": "/assets/posters/battleofbards.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "1st Nov 2025, 10:00 AM",
@@ -325,8 +306,8 @@
   {
     "_id": "flashmob",
     "name": "Flashmob",
-    "description": "Description coming soon \u2014 expect a surprise that\u2019ll light up the crowd!",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Description coming soon — expect a surprise that’ll light up the crowd!",
+    "poster": "/assets/posters/flashmob.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 4:00 PM",
@@ -344,8 +325,8 @@
   {
     "_id": "roborumble",
     "name": "RoboRumble",
-    "description": "Description on standby \u2014 gear up for some robotic mayhem soon!",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Description on standby — gear up for some robotic mayhem soon!",
+    "poster": "/assets/posters/roborumble.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "TBD",
@@ -363,8 +344,8 @@
   {
     "_id": "aerocraft",
     "name": "AEROCRAFT",
-    "description": "Hovercrafts, chaos, and crashes \u2014 that\u2019s AEROCRAFT for you. Build your beast to outlast, outpush, and outmaneuver the competition in a high-octane arena where only the toughest hovercraft survives.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Hovercrafts, chaos, and crashes — that’s AEROCRAFT for you. Build your beast to outlast, outpush, and outmaneuver the competition in a high-octane arena where only the toughest hovercraft survives.",
+    "poster": "/assets/posters/aerocraft.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "TBD",
@@ -382,8 +363,8 @@
   {
     "_id": "robosoccer",
     "name": "Robosoccer",
-    "description": "Description loading \u2014 but you already know it\u2019s gonna be robots kicking and chaos scoring!",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Description loading — but you already know it’s gonna be robots kicking and chaos scoring!",
+    "poster": "/assets/posters/robosoccer.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "TBD",
@@ -401,8 +382,8 @@
   {
     "_id": "deathrace",
     "name": "Deathrace",
-    "description": "Strap in for Deathrace \u2014 where bots burn rubber and crush the track. Build a speed demon that can survive every bump, obstacle, and opponent. Fastest bot wins. The rest? Left in the dust.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Strap in for Deathrace — where bots burn rubber and crush the track. Build a speed demon that can survive every bump, obstacle, and opponent. Fastest bot wins. The rest? Left in the dust.",
+    "poster": "/assets/posters/deathrace.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "TBD",
@@ -421,7 +402,7 @@
     "_id": "robowar",
     "name": "Robowar",
     "description": "Welcome to the cage of chaos! Robowar is a no-mercy showdown where your bot fights for dominance. Build, battle, and bash till the last one stands. Sparks will fly, literally.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "poster": "/assets/posters/robowar.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "TBD",
@@ -439,8 +420,8 @@
   {
     "_id": "mayday-mystery",
     "name": "MayDay Mystery",
-    "description": "Riddles, chaos, and campus-wide adventure \u2014 MayDay Mystery turns IIEST into your playground. Decode clues, sprint between checkpoints, and outsmart every other team before the clock runs out.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Riddles, chaos, and campus-wide adventure — MayDay Mystery turns IIEST into your playground. Decode clues, sprint between checkpoints, and outsmart every other team before the clock runs out.",
+    "poster": "/assets/posters/maydaymystery.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "1st Nov 2025, 04:00 PM",
@@ -456,10 +437,10 @@
     ]
   },
   {
-    "_id": "mathmania",
-    "name": "Mathmania",
-    "description": "Math meets madness in Mathmania! From tricky aptitude to artistic Desmos recreations, this isn\u2019t your regular math quiz. It\u2019s logic, beauty, and brainpower colliding in the most satisfying way.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "_id": "mathemania",
+    "name": "Mathemania",
+    "description": "Math meets madness in Mathmania! From tricky aptitude to artistic Desmos recreations, this isn't your regular math quiz. It's logic, beauty, and brainpower colliding in the most satisfying way.",
+    "poster": "/assets/posters/mathemania.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 7:30 PM",
@@ -477,8 +458,8 @@
   {
     "_id": "war-of-titans",
     "name": "War of Titans",
-    "description": "Description coming soon \u2014 legends will rise, and only one titan will conquer!",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Description coming soon — legends will rise, and only one titan will conquer!",
+    "poster": "/assets/posters/waroftitans.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "1st Nov 2025, 03:00 PM",
@@ -496,8 +477,8 @@
   {
     "_id": "junkyard",
     "name": "Junkyard",
-    "description": "Welcome to Junkyard \u2014 where scrap meets genius! Crack puzzles in Round 1, then get your hands dirty turning junk into functional models. It\u2019s teamwork, creativity, and chaos all in one.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Welcome to Junkyard — where scrap meets genius! Crack puzzles in Round 1, then get your hands dirty turning junk into functional models. It’s teamwork, creativity, and chaos all in one.",
+    "poster": "/assets/posters/junkyard.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "1st Nov 2025, 11:00 AM",
@@ -515,8 +496,8 @@
   {
     "_id": "bgmi",
     "name": "BGMI",
-    "description": "Description dropping soon \u2014 ready your squad and gear up for battle!",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Description dropping soon — ready your squad and gear up for battle!",
+    "poster": "/assets/posters/bgmi.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 9:00 PM",
@@ -534,8 +515,8 @@
   {
     "_id": "valorant",
     "name": "Valorant",
-    "description": "Aim, clutch, and dominate. The Valorant tourney is pure adrenaline \u2014 teams fight it out in tactical 5v5 shootouts to claim the champion\u2019s crown. Strategy meets style, and the stakes couldn\u2019t be higher.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Aim, clutch, and dominate. The Valorant tourney is pure adrenaline — teams fight it out in tactical 5v5 shootouts to claim the champion’s crown. Strategy meets style, and the stakes couldn’t be higher.",
+    "poster": "/assets/posters/valorant.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "1st Nov 2025, 03:00 PM",
@@ -547,14 +528,18 @@
       {
         "name": "Debjit Maity",
         "phone": "8167025227"
+      },
+      {
+        "name": "Anshuman Dalai",
+        "phone": "8757599552"
       }
     ]
   },
   {
     "_id": "fifa",
     "name": "Fifa",
-    "description": "Kick off the ultimate FIFA showdown! One-on-one clashes, knockout drama, and bragging rights on the line. It\u2019s your chance to prove you\u2019re not just good\u2014you\u2019re controller royalty.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Kick off the ultimate FIFA showdown! One-on-one clashes, knockout drama, and bragging rights on the line. It’s your chance to prove you’re not just good—you’re controller royalty.",
+    "poster": "/assets/posters/fifa.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 5:00 PM",
@@ -565,15 +550,15 @@
     "coordinators": [
       {
         "name": "Pritam",
-        "phone": "7856093382"
+        "phone": "7865009382"
       }
     ]
   },
   {
     "_id": "king-s-conquest",
     "name": "King's Conquest",
-    "description": "Think you\u2019ve got the brains to rule them all? King\u2019s Conquest tests your tactical mind in a battle of strategy and betrayal. Build alliances, crush enemies, and outthink everyone to claim the throne.",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "description": "Think you've got the brains to rule them all? King’s Conquest tests your tactical mind in a battle of strategy and betrayal. Build alliances, crush enemies, and outthink everyone to claim the throne.",
+    "poster": "/assets/posters/kingsconquest.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "1st Nov 2025, 10:00 AM",
@@ -592,7 +577,7 @@
     "_id": "real-cricket",
     "name": "Real Cricket",
     "description": "Gear up, champs! It's time to swap the field for your phone and dive into Real Cricket, the ultimate mobile cricket clash where timing, tactics, and precision decide your fate! 🎮⚡ Step onto the virtual pitch, build your dream innings, and smash those sixes like a pro — because every shot counts and every over brings you closer to victory! 💥 Whether you're a cover drive king or a yorker specialist, this is your stage to show off your cricketing instincts and dominate the leaderboard. 🏆 So pad up, grab your virtual bat, and let's see who hits it out of the park! ",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "poster": "/assets/posters/realcricket.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 12:00 AM",
@@ -611,7 +596,7 @@
     "_id": "speedcubing-showdown",
     "name": "Speedcubing Showdown",
     "description": "Ready, set, twist! 🤩 SOCIT brings you the ultimate Speedcubing Challenge, where quick thinking meets lightning-fast fingers! 🔥 Solve the classic 3x3 Rubik's Cube in record time and prove your mastery over color, logic, and pure focus. 💫 Every second counts as you twist, turn, and snap your way toward perfection — can you beat the clock before anyone else? ⏱️ Whether you're a casual solver or a cubing prodigy, this is your chance to show off those smooth moves and claim your crown as the cube champion! 👑🧠",
-    "poster": "https://w0.peakpx.com/wallpaper/219/781/HD-wallpaper-abstract1-abstract-abstracts-background-blue-colours-light.jpg",
+    "poster": "/assets/posters/speedcubingshowdown.webp",
     "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
     "registrationUrl": "",
     "startTime": "31st Oct 2025, 12:00 AM",
@@ -629,6 +614,37 @@
         "phone": "9635674194"
       }
     ]
+  },
+  {
+    "_id": "hacksprint",
+    "name": "HackSprint",
+    "description": "🎓 Exclusive for IIEST Shibpur Students! HackSprint Kolkata Edition — National Level Hackathon is happening at IIEST Shibpur, West Bengal on 1st & 2nd November 2025, powered by SR Technologies.",
+    "description_points": [
+      "🔥 Get an exclusive 50% discount on your registration — only for IIEST students!",
+      "🎯 Workshops on Artificial Intelligence / Machine Learning",
+      "🌐 MERN Stack Development with AI Integration",
+      "💡 Hackathon Domains: AI & ML | Generative AI | MERN + AI | Healthcare | Open Innovation",
+      "🏆 Prize Pool: ₹5,00,000/-",
+      "💼 Internships for top-performing teams!",
+      "🏢 Registration fee: 1000₹ for non-IIESTians, 750₹ for IIESTians."
+    ],
+    "poster": "/assets/posters/hacksprint.webp",
+    "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWJzdHJhY3QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+    "registrationUrl": "https://hacksprint.in/",
+    "startTime": "1st Nov 2025, 12:00 AM",
+    "endTime": "2nd Nov 2025, 11:59 PM",
+    "rulesDoc": null,
+    "venue": "TBD",
+    "type": "Mixed",
+    "coordinators": [
+      {
+        "name": "Shreyansh Srivastava",
+        "phone": "8478090242"
+      },
+      {
+        "name": "Sujaan Sharma",
+        "phone": "9462480435"
+      }
+    ]
   }
-  
 ]
