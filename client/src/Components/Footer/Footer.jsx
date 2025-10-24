@@ -1,3 +1,4 @@
+import { DownloadOurApp } from "../../App";
 import "./Footer.css";
 import logo from "/logo.svg";
 import {
@@ -87,7 +88,7 @@ const Footer = () => {
                         technology, creativity, and learning!
                     </p>
 
-                    {/* <button onClick={()=>window.open("https://instruo.tech", "_blank")} className="apk"><img src="/assets/mediafire.svg" />Download the app</button> */}
+                    <button onClick={()=>window.open(DownloadOurApp, "_blank")} className="apk"><img src="/assets/github-icon.svg" />Download the app</button>
 
                     <div style={{ marginTop: "1.5rem", fontSize: "1.2rem" }}>
                         Socials

@@ -5,6 +5,8 @@ import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
 import Preloader from './Components/Preloader/Preloader';
 
+export const DownloadOurApp = "https://instruo.tech/";
+
 const ScrollToTop = ()=> {
   const { pathname } = useLocation();
 

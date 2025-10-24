@@ -44,7 +44,7 @@
 }
 
 .instruo-team .accordion {
-    width: min(calc(100vw - 2rem), 1000px);
+    width: min(calc(100vw - 0.8rem), 1000px);
     /* padding: 1rem; */
 }
 
@@ -84,7 +84,7 @@
     background: hsla(0, 0%, 0%, 0.77);
     border: 2px solid hsla(0, 0%, 100%, 0.13);
     margin-bottom: 2rem;
-    width: min(calc(100vw - 2rem), 1000px);;
+    width: min(100vw, 1000px);;
 }
 
 .instruo-team .head span {

@@ -11,6 +11,7 @@ import Icon, {
   HomeOutlined,
   ShopOutlined,
 } from '@ant-design/icons';
+import { DownloadOurApp } from '../../App';
 const { Header } = Layout;
 
 const DrawerSidebar = () => {
@@ -122,7 +123,7 @@ const DrawerSidebar = () => {
               Our Team
             </Link>
           </Menu.Item>
-          {/* <div
+          <div
             style={{
               color: 'white',
               whiteSpace: 'normal',
@@ -134,8 +135,8 @@ const DrawerSidebar = () => {
           >
             Download the official Instruo app to register for events, view
             schedules, locate venues and much more!
-          <button onClick={()=>window.open("https://instruo.tech", "_blank")} className="apk"><img src="/assets/mediafire.svg" />Download the app</button>
-          </div> */}
+          <button onClick={()=>window.open(DownloadOurApp, "_blank")} className="apk"><img src="/assets/github-icon.svg" />Download the app</button>
+          </div>
         </Menu>
       </Drawer>
     </ConfigProvider>

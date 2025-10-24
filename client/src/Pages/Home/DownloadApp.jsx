@@ -1,3 +1,4 @@
+import { DownloadOurApp } from '../../App';
 import './DownloadApp.css';
 const DownloadApp = () => {
   return (
@@ -8,9 +9,9 @@ const DownloadApp = () => {
           <h3>Now in Mobile</h3>
           <p>
             Download the mobile app for Instruo 14 to register for events and
-            get all important updates.
+            get all important details.
           </p>
-            <img onClick={()=>window.open("https://instruo.tech", "_blank")} className="qrcode" src="/assets/Home/qr.svg" />
+            <img onClick={()=>window.open(DownloadOurApp, "_blank")} className="qrcode" src="/assets/Home/qr.svg" />
         </div>
         <div className="design">
           <img
