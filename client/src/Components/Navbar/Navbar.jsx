@@ -9,6 +9,7 @@ import {
   theme,
   Button,
   Divider,
+  App,
 } from 'antd';
 import { Link, useLocation } from 'react-router-dom';
 import {
@@ -21,6 +22,7 @@ import {
   LogoutOutlined,
   HomeOutlined,
   ShoppingOutlined,
+  AppstoreAddOutlined,
 } from '@ant-design/icons';
 import DrawerSidebar from './SideBar';
 // import ProfileDropdown from "./ProfileDropdown";
@@ -116,6 +118,13 @@ const Navbar = ({ user, login, logout }) => {
                 onClick={() => setSelectedKey(['/team'])}
               >
                 <Link to="/team">Our Team</Link>
+              </Menu.Item>
+                <Menu.Item
+                key="/download"
+                icon={<AppstoreAddOutlined />}
+                onClick={() => setSelectedKey(['/download'])}
+              >
+                <Link to="/download">Download</Link>
               </Menu.Item>
             </Menu>
           </Header>
